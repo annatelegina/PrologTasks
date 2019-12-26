@@ -16,6 +16,7 @@
  3) Enter your sentence with point at the end.
  
  Database includes nouns, articles, adjectives, verbs, adverbs and numerics.
+ 
  Note: you might extend existing database of words and parts of speech
  
  
