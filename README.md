@@ -14,6 +14,7 @@
  1) Run in the command line: swipl syntal_analyze.pl
  2) Exec the main function: analyze.
  3) Enter your sentence with point at the end.
+ 4) If sentence was written correctly, graphics window with the grammar tree will appear. If it isn't, the result will be "false" in the console.
  
  Database includes nouns, articles, adjectives, verbs, adverbs and numerics.
  
