@@ -14,6 +14,7 @@
  1) Run in the command line: swipl syntal_analyze.pl
  2) Exec the main function: analyze.
  3) Enter your sentence with point at the end.
+ 
  Database includes nouns, articles, adjectives, verbs, adverbs and numerics.
  Note: you might extend existing database of words and parts of speech
  
